@@ -1,0 +1,37 @@
+.bg-color {
+    background-color: aqua;
+    height: 48px;
+}
+
+.font {
+
+    font-weight: bold;
+    font-style: normal;
+    font-size: 40px;
+    margin-top: 8%;
+    text-align: center;
+}
+
+#mt-10 {
+    margin-top: 10%;
+    padding-top: 20px;
+
+}
+
+.img-bg {
+
+    background-image: url("C:\Users\shnighot\Desktop\frontend\das-app\src\components\img\doc.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* margin: 0%; */
+    width: 100%;
+    background-color: rgb(105, 202, 241);
+    height: 100vh;
+
+}
+
+#mt-10 {
+    margin-top: 10%;
+    padding-top: 20px;
+
+}
